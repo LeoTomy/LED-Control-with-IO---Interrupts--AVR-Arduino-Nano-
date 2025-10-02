@@ -69,7 +69,9 @@ Programming without Arduino libraries → closer to real embedded development
 ## 🧭 Demo
 https://youtu.be/YP0IIaIXWzg
 
-📜 License
+---
+
+## 📖 License
 This project is licensed under the MIT License.
 Feel free to use, modify, and share.
 
