@@ -43,9 +43,8 @@ The system uses **three buttons and multiple LEDs** to create an intelligent lig
 
 ## 📂 Project Structure
 ├── src/
-│   ├── main.c           # Main program with LED sequence and interrupts
-
-├── README.md            # Project documentation
+│ └── main.c # Main program with LED sequence and interrupts
+├── README.md # Project documentation
 
 
 ---
