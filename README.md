@@ -44,6 +44,7 @@ The system uses **three buttons and multiple LEDs** to create an intelligent lig
 ## 📂 Project Structure
 ├── src/
 │   ├── main.c           # Main program with LED sequence and interrupts
+
 ├── README.md            # Project documentation
 
 
@@ -52,7 +53,7 @@ The system uses **three buttons and multiple LEDs** to create an intelligent lig
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/LED-IO-Interrupts.git
+   git clone https://github.com/LeoTomy/LED-Control-with-IO---Interrupts--AVR-Arduino-Nano-
 Open the project in Arduino IDE or compile with AVR-GCC.
 
 Upload to your Arduino Nano (ATmega328P).
