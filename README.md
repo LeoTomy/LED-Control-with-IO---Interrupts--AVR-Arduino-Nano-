@@ -45,21 +45,15 @@ The system uses **three buttons and multiple LEDs** to create an intelligent lig
 1. Clone the repository:
    ```bash
    git clone https://github.com/LeoTomy/LED-Control-with-IO---Interrupts--AVR-Arduino-Nano-
-Open the project in Arduino IDE or compile with AVR-GCC.
+2. Open the project in Arduino IDE or compile with AVR-GCC.
+3. Upload to your Arduino Nano (ATmega328P).
+4. Connect the circuit:
+5. S1 → Start sequence
+6. S2 → Speed change
+7. S3 → Interrupt disable LEDs
+8. Press S1 to start the LED sequence.
 
-Upload to your Arduino Nano (ATmega328P).
-
-Connect the circuit:
-
-S1 → Start sequence
-
-S2 → Speed change
-
-S3 → Interrupt disable LEDs
-
-Press S1 to start the LED sequence.
-
-🎯 Learning Outcomes
+##🎯 Learning Outcomes
 Understanding digital IO with AVR registers
 
 Implementing hardware interrupts
@@ -68,7 +62,7 @@ Designing a state-dependent LED control system
 
 Programming without Arduino libraries → closer to real embedded development
 
-📸 Demo
+## 🧭 Demo
 https://youtu.be/YP0IIaIXWzg
 
 📜 License
