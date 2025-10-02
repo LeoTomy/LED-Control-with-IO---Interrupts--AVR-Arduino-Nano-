@@ -53,6 +53,8 @@ The system uses **three buttons and multiple LEDs** to create an intelligent lig
 7. S3 → Interrupt disable LEDs
 8. Press S1 to start the LED sequence.
 
+---
+
 ## 🎯 Learning Outcomes
 Understanding digital IO with AVR registers
 
@@ -61,6 +63,8 @@ Implementing hardware interrupts
 Designing a state-dependent LED control system
 
 Programming without Arduino libraries → closer to real embedded development
+
+---
 
 ## 🧭 Demo
 https://youtu.be/YP0IIaIXWzg
