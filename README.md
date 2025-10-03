@@ -1,8 +1,10 @@
+## 🚦 LED Control with IO & Interrupts (AVR/Arduino Nano)
+
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Language](https://img.shields.io/badge/language-C-blue.svg)
+![Top language](https://img.shields.io/github/languages/top/LeoTomy/LED-Control-with-IO---Interrupts--AVR-Arduino-Nano-)
 
-# 🚦 LED Control with IO & Interrupts (AVR/Arduino Nano)
 
+## 📖 Overview
 This project demonstrates **IO handling and interrupt-driven programming** on an AVR-based microcontroller (Arduino Nano).  
 The system uses **three buttons and multiple LEDs** to create an intelligent light sequence, fully implemented on **register level** without Arduino libraries.
 
